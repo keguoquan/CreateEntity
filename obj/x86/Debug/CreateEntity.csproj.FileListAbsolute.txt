@@ -1,0 +1,11 @@
+E:\Out Project\DBFrame\CreateEntity\bin\Debug\CreateEntity.exe.config
+E:\Out Project\DBFrame\CreateEntity\bin\Debug\CreateEntity.exe
+E:\Out Project\DBFrame\CreateEntity\bin\Debug\CreateEntity.pdb
+E:\Out Project\DBFrame\CreateEntity\bin\Debug\DBFrame.dll
+E:\Out Project\DBFrame\CreateEntity\bin\Debug\DBFrame.pdb
+E:\Out Project\DBFrame\CreateEntity\obj\x86\Debug\CreateEntity.csprojResolveAssemblyReference.cache
+E:\Out Project\DBFrame\CreateEntity\obj\x86\Debug\CreateEntity.FrmMain.resources
+E:\Out Project\DBFrame\CreateEntity\obj\x86\Debug\CreateEntity.Properties.Resources.resources
+E:\Out Project\DBFrame\CreateEntity\obj\x86\Debug\CreateEntity.csproj.GenerateResource.Cache
+E:\Out Project\DBFrame\CreateEntity\obj\x86\Debug\CreateEntity.exe
+E:\Out Project\DBFrame\CreateEntity\obj\x86\Debug\CreateEntity.pdb
